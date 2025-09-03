@@ -1,4 +1,4 @@
-# qb-weedoutdoor V2
+# gb-weedoutdoor V2
 
 A free **weed growing system** for the QB-Core framework in FiveM.  
 Supports outdoor planting, fertilizing, watering, harvesting, and police interaction.
