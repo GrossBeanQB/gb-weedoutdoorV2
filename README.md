@@ -1,6 +1,3 @@
-# gb-weedoutdoorV2
-New version of growing weed outdoors.
-
 # qb-weedoutdoor V2
 
 A free **weed growing system** for the QB-Core framework in FiveM.  
