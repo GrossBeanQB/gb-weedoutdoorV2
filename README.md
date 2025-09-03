@@ -63,3 +63,11 @@ ADD THESE IN YOUR qb-core/shared/items.lua
 -- Fertilizer
 ["weed_nutrition"]         = {["name"] = "weed_nutrition",         ["label"] = "Fertilizer",         ["weight"] = 200, ["type"] = "item", ["image"] = "fertilizer.png", ["unique"] = false, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Plant nutrition"}
 
+4.
+
+Paste all images from "images" folder to  qb-inventory/html/images
+
+
+
+Enjoy.
+
